@@ -12,6 +12,6 @@
         android:layout_margin="1dp"
         android:background="#660000ff"
         android:padding="10dp"
-        android:textColor="@android:color/white"
+        android:textColor="#9dff5b"
         android:text="标题" />
 </LinearLayout>

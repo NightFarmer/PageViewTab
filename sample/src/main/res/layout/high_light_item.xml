@@ -2,7 +2,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#66ff0000"
+    android:layout_margin="8dp"
+    android:background="@drawable/demo_shap"
     android:orientation="vertical">
 
 </LinearLayout>
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<View-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:background="#ff0000"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="6dp"/>-->
+<!--</RelativeLayout>-->
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:background="@drawable/box9"-->
+    <!-->-->
+
+<!--</RelativeLayout>-->
